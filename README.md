@@ -2,6 +2,8 @@
     
 本文中git常见命令，内容来源：[github-git-cheat-sheet](https://training.github.com/downloads/zh_CN/github-git-cheat-sheet/)。
 
+最便捷的git命令帮助文档，其实就在git中，使用`git --help`查看。
+
 *常记常忘、常忘常记。好记性不如做笔记!!!* 
 
 ## 一、目录
